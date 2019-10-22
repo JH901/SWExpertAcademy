@@ -1,4 +1,4 @@
-package difficulty1;
+package D3;
 import java.util.*;
 
 public class num8741 {

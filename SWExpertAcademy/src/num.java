@@ -1,4 +1,4 @@
-package difficulty1;
+
 import java.util.*;
 
 public class num {
