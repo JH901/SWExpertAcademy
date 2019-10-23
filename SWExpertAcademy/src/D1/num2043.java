@@ -19,7 +19,6 @@ public class num2043 {
 		
 		System.out.println(count);
 		
-
 	}
 
 }
