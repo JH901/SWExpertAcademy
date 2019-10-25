@@ -13,8 +13,8 @@ public class num1986 {
 			int input = scan.nextInt();
 			int sum = 0;
 			for(int j=1; j<=input; j++) {
-				if(j%2 == 0) sum+=j;
-				else sum-=j;
+				if(j%2 == 0) sum-=j;
+				else sum+=j;
 			}
 			results[i] = sum;
 		}
