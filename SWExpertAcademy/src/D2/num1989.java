@@ -15,7 +15,6 @@ public class num1989 {
 			boolean check = true;
 			for(int j=0; j<input.length()/2; j++) {
 				if(input.charAt(j) != input.charAt(end)) {
-					System.out.println(input.charAt(j)+"/"+input.charAt(end));
 					check = false;
 					break;
 				}
